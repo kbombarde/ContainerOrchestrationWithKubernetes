@@ -67,23 +67,23 @@ http://<INTERNAL-IP>:30800
 ```
 
 ## 🌆 Screenshots
-### Kubernetes Dashboard
+#### Kubernetes Dashboard
 ![Kubernetes Dashboard](./screenshot/workload.png)  
-### Persistent Volumes
+#### Persistent Volumes
 ![Persistent Volumes](./screenshot/PV.png)  
-### Persistent Volume Claims
+#### Persistent Volume Claims
 ![Persistent Volume Claims](./screenshot/PVC.png)  
-### Secrets
+#### Secrets
 ![Secrets](./screenshot/Secrets.png)  
-### Config Maps
+#### Config Maps
 ![Config Maps](./screenshot/ConfigMaps.png)  
-### Services
+#### Services
 ![Services](./screenshot/Services.png)  
-### Pods
+#### Pods
 ![Pods](./screenshot/Pods.png)  
-### Wordpress Setup Page
+#### Wordpress Setup Page
 ![Wordpress Setup](./screenshot/WordpressInstall.png)  
-### Wordpress Dashboard
+#### Wordpress Dashboard
 ![Wordpress Dashboard](./screenshot/WordpressDashboard.png)
 
 ## 🔒 Security Best Practices
