@@ -72,8 +72,8 @@ http://<INTERNAL-IP>:30800
 ![Persistent Volume Claims](./screenshot/PVC.png)
 ![Secrets](./screenshot/Secrets.png)
 ![Config Maps](./screenshot/ConfigMaps.png)
-![Services](./screenshot/services.png)
-![Pods](./screenshot/pods.png)
+![Services](./screenshot/Services.png)
+![Pods](./screenshot/Pods.png)
 ![Wordpress Setup](./screenshot/WordpressInstall.png)
 ![Wordpress Dashboard](./screenshot/WordpressDashboard.png)
 
